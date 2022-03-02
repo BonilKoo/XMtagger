@@ -1,7 +1,10 @@
 # Bisulfite XM tagger
-Python code for adding XM tag to bisulfite bam file.
+Python code for adding XM tag (methylation call string) to bisulfite bam file.
 
 Both Single-end and paired-end are available.
+
+### Motivation
+Some bisulfite alignment tools do not provide XM tag.
 
 ### Package requirement
 + pysam
