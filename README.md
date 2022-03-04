@@ -7,7 +7,7 @@ Both Single-end and paired-end are available.
 Some bisulfite alignment tools do not provide XM tag.
 
 ### Package requirement
-+ pysam
++ pysam (https://pysam.readthedocs.io/en/latest/index.html)
 
 ### File requirement
 The input bam file must be indexed.
