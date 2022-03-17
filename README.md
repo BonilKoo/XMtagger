@@ -21,3 +21,7 @@ python XMtagger.py [reference genome file] [input bam file] [output bam file]
 ```
 python XMtagger.py hg38.fa input.bam output.bam
 ```
+
+## Appendix
+For faster results, we recommend using the tag command in Metheor implemented in the Rust programming language.
+https://github.com/dohlee/metheor#miscellaneous
