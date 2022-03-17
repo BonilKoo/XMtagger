@@ -23,5 +23,5 @@ python XMtagger.py hg38.fa input.bam output.bam
 ```
 
 ## Additional Information
-For faster results, we recommend using the tag command in Metheor implemented in the Rust programming language.
+For faster results, we recommend using the _tag_ command in _Metheor_ implemented in the Rust programming language.
 https://github.com/dohlee/metheor#miscellaneous
